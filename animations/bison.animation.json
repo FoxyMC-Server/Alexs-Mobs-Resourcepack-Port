@@ -205,7 +205,7 @@
       }
     },
     "animation.bison.attack": {
-      "loop": true,
+      "loop": false,
       "animation_length": 0.58333,
       "bones": {
         "head": {

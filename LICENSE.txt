@@ -1,0 +1,5 @@
+These textures and models are originally from the Java mod "Alex's Mobs" (LGPLv3).
+Converted to Minecraft Bedrock Edition formats.
+Modifications have been made to adapt to Bedrock Edition.
+Original Mod: https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
+License: https://www.gnu.org/licenses/lgpl-3.0.html
